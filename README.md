@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### - 👋 Hello, I'm @JlossBustin, a software developer always on the prowl to learn the hottest languages, frameworks and API's.
+### - 🌱 I’m currently learning a little about software frameworks and re-familiarizing myself with coding languages that I have utilized in the past.
+### - 👀 I'm interested anything and everything software development, and new and exciting opportunities that would allow me to expand on my tech stack
+### - 📫 How to reach me: justinbloss14@hotmail.com
 <!--
 **JlossBustin/JlossBustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
